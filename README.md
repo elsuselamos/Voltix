@@ -1,5 +1,6 @@
 
 
+
 ![image](https://github.com/user-attachments/assets/90bacb42-b5b2-42bb-80de-9525da45f959)
 
 
@@ -11,7 +12,7 @@ Discord: https://discord.gg/bSaMqqSc
 
 # How to Run Voltix Worker Nodes
 
-Step 1: Go to hhttps://voltix.ai/login?ref=FZTEC  or code: **`FZTEC`**
+Step 1: Go to [Voltix](https://voltix.ai/login?ref=FZTEC)  or code: **`FZTEC`**
 
 Step 2: Login your Solana wallet (Phantom)
 
